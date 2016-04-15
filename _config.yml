@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 一本魔法书
+email: thousandsmoe+abom@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  一本见习魔法使「青石千梦」对「现代生命魔法」的笔记。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.abookofmagic.com" # the base hostname & protocol for your site
+github_username: thousandsmoe
+twitter_username: 青石千梦
+permalink: /archives/:year/:slug.html
+
+
+# Build settings
+markdown: kramdown
